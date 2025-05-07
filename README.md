@@ -25,3 +25,6 @@ Para esta actualización se opto por montar la página web en un servidor de win
 
 ## Sin conexión a internet
 Con el avance de investigación sobre las incognitas a mejorar se planeó la posibilidad de ofrecer la accesibilidad de la página aún si no habia seervicio a internet, reduciendo tiempos de espera para la actualización de registros o actualizaciones de datos.
+
+![4](https://github.com/user-attachments/assets/102235d4-4475-4845-9b2f-f93cab14feba)
+
